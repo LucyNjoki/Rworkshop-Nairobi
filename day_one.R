@@ -96,5 +96,5 @@ data()
 iris$Sepal.Length #$ - specifying columns
 iris$Sepal.Width
 
-plot(cars)
+
 
