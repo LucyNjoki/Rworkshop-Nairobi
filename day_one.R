@@ -74,3 +74,24 @@ LETTERS #upper case A-z alphabets
 letters == LETTERS
 letters != LETTERS
 all(letters != LETTERS)
+
+#Afternoon----
+
+A <- c(1:10) 
+class(A)
+
+
+
+
+
+
+data("iris")
+head(iris)
+tail(iris)
+
+#structure of data
+str(iris)
+data()
+
+iris$Sepal.Length #$ - specifying columns
+iris$Sepal.Width
